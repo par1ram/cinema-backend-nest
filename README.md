@@ -78,14 +78,6 @@ This section provides example endpoints. More complete documentation would inclu
 
 (Implementation not shown, but should include CRUD operations)
 
-### Payment Endpoints:
-
-(Implementation not shown)
-
-### File Endpoints:
-
-(Implementation not shown)
-
 ## 6. Technology Stack
 
 - **Backend**: NestJS
